@@ -9,7 +9,7 @@ FoundryVTT用のワールド
 
 以下のリンクをワールドとしてインストールしてください。
 
-* リンク：https://raw.githubusercontent.com/Sa10yama/hazimetesima/master/world.json
+* リンク：https://raw.githubusercontent.com/Sa10yama/hazimetesima/main/world.json
 
 ### あらすじ（プレイヤー用）
 *冒険者達は依頼を受け、１００年前に島民が全員死んだと言われている「ハジメテ島」に向かう事になった。*
