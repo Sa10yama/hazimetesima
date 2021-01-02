@@ -1,0 +1,2 @@
+# hazimetesima
+FoundryVTT用のワールド
